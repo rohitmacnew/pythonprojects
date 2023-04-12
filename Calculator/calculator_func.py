@@ -18,5 +18,3 @@ def menu():
     print("3. Multiply")
     print("4. Divide")
 
-
-
