@@ -1,4 +1,6 @@
 # This is a python script for Basic Calculator
+#todo : Functions defining for all methods
+#todo : remove hard coding practices
 
 # Input the 1st value
 x = int(input("Please enter the 1st value : "))
