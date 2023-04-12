@@ -1,0 +1,5 @@
+SELECT description as Description,
+CASE WHEN status = 1 THEN "Pass"
+ELSE "Fail"
+END  as Status
+FROM testDB.testCases
